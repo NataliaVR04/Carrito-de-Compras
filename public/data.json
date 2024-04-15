@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Abbey Bominable",
+        "series": "Generation 3", 
+        "price": 568,	
+        "img": "img/Abbey.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 2,
+        "name": "Cleo De Nile & Ghoulia Yelps",
+        "series": "Classroom",
+        "price": 1450,	
+        "img": "img/Ghoulia.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 3,
+        "name": "Frankie Stein",
+        "series": "Classroom",
+        "price": 1199,	
+        "img": "img/Frankie.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 4,
+        "name": "Draculaura",
+        "series": "Haunt Couture",
+        "price": 9999,	
+        "img": "img/Draculaura.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 5,
+        "name": "Catrine DeMew",
+        "series": "New Scaremester",
+        "price": 2632,	
+        "img": "img/Catrine.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 6,
+        "name": "Skelita Calaveras",
+        "series": "Scaris: City of Frights",
+        "price": 3347,	
+        "img": "img/Skelita.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 7,
+        "name": "Catty Noir",
+        "series": "New Scaremester",
+        "price": 3229,	
+        "img": "img/Catty.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 8,
+        "name": "Lagoona Blue",
+        "series": "Signature Wave 2",
+        "price": 2965,	
+        "img": "img/Lagoona.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 9,
+        "name": "Clawdeen Wolf",
+        "series": "Scaris: City of Frights",
+        "price": 1192,	
+        "img": "img/Clawdeen.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 10,
+        "name": "Rochelle Goyle",
+        "series": "Signature Wave 4",
+        "price": 3150,	
+        "img": "img/Rochelle.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 11,
+        "name": "Jinafire Long",
+        "series": "Gloom and Bloom",
+        "price": 5389,	
+        "img": "img/Jinafire.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 12,
+        "name": "Venus McFlytrap",
+        "series": "I Love Fashion",
+        "price": 5189,	
+        "img": "img/Venus.jpg",
+        "quanty": 1
+    }
+
+]

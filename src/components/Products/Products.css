@@ -1,0 +1,32 @@
+.product-card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 50px;
+    text-align: center;
+}
+
+.card {
+    margin: 50px;
+}
+
+h4 {
+    font-size: 17px;
+    color: rgb(81, 16, 101);    
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 10px;
+    color: white;
+    background-color: #CC0667;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 15px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
